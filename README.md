@@ -13,23 +13,35 @@ Features:
 8. Responsive Design
 9. Prettier configured. (Please write `npx prettier --write .` to the console :))
 
-After executing `npm start`, below screen appears:  
+After executing `npm start`, below screen appears:
+
 <img alt="Initially Input Controls Test" src="./img/initially_input_controls_test.png" />
 
+
 Focusing `NumericInput`:
+
 <img alt="Input Element Focused" src="./img/input_element_focused.png" />
 
+
 Responsive display on mobile phone:
+
 <img alt="Responsive Display on mobile phone" src="./img/responsive_display_on_mobile_phone.png" />
 
+
 Correct expression written into CalcInput:
+
 <img alt="Correct Expression Written into CalcInput" src="./img/correct_expression_written_into_calcinput.png" />
 
+
 False expressions written into NumericInput and CalcInput:
+
 <img alt="Correct Expression Written into NumericInput and CalcInput" src="./img/false_expressions_written_into_numericinput_calcinput.png" />
 
+
 False expressions written into Custom Syle:
+
 <img alt="Correct Expressions Written into Custom Syle" src="./img/correct_expressions_written_into_custom_style.png" />
+
 
 ## Available Scripts
 
